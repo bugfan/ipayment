@@ -32,7 +32,7 @@
 
 
 ## 一些使用截图
-![image](https://github.com/bugfan/ipayment/blob/main/img/1.jpeg)
+![image](https://github.com/bugfan/ipayment/blob/main/img/1.png)
 ![image](https://github.com/bugfan/ipayment/blob/main/img/2.jpeg)
 ![image](https://github.com/bugfan/ipayment/blob/main/img/3.jpeg)
 ![image](https://github.com/bugfan/ipayment/blob/main/img/4.jpeg)
