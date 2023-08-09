@@ -30,6 +30,9 @@
 ## 关于更新
 后续慢慢更新上来～
 
+## 关注我公众号获取"联系方式"和"交流群"
+![image](https://github.com/bugfan/ipayment/blob/main/img/gzh.jpg)
+
 
 ## 一些使用截图
 ![image](https://github.com/bugfan/ipayment/blob/main/img/1.png)
