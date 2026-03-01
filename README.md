@@ -8,6 +8,9 @@
 - Android apk安装包
 
 ## 说明
+使用非常简单！！！
+使用非常简单！！！
+使用非常简单！！！（小白上手难度）
 
 #### 特点
 - 不用开公司
@@ -48,7 +51,7 @@
 https://mp.weixin.qq.com/s?__biz=MzU5NTQ2NTg0Mw==&mid=2247484178&idx=1&sn=a68d2c931edbe0bb9f4494c146e54c52&chksm=fe70c00ec90749181789abc683ce6f4b0d58eab8707495ebeb31d061a7ea690736fd9bc2cec6#rd
 
 ## 如何使用？
-由于精力有限，目前需要打赏后才能使用！ 如需使用，关注下方公众号，加我vx:fanwxm，打赏点就能使用了😊😊😊 （毕竟创作不易啊）
+由于精力有限，目前需要打赏后才能使用！ 如需使用，关注下方公众号，加我vx:fanwxm，打赏点就能使用了，毕竟创作不易啊😁
 
 ## 关注我公众号获取"联系方式"和"交流群"
 ![image](https://github.com/bugfan/ipayment/blob/main/img/gzh.jpg)
