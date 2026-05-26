@@ -68,5 +68,4 @@ https://mp.weixin.qq.com/s?__biz=MzU5NTQ2NTg0Mw==&mid=2247484178&idx=1&sn=a68d2c
 ![image](https://github.com/bugfan/ipayment/blob/main/img/8.jpeg)
 ![image](https://github.com/bugfan/ipayment/blob/main/img/9.jpeg)
 ![image](https://github.com/bugfan/ipayment/blob/main/img/11.png)
-![image](https://github.com/bugfan/ipayment/blob/main/img/10.jpg)
 ![image](https://github.com/bugfan/ipayment/blob/main/img/12.jpg)
